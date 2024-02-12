@@ -12,11 +12,11 @@ Upload your file to your GitHub account and send me the link.
 
 import math
 radius = int(input("Enter the radius of the circle: "))
-print(int(cradius))
+print(type(radius))
 
-cirmcumference = 2 * math.pi * cradius
+cirmcumference = 2 * math.pi * radius
 
-area = math.pi * cradius ** 2
+area = math.pi * radius ** 2
 
 print(f'The area is {area}, The circumference is {cirmcumference} for radius {radius}')
 
