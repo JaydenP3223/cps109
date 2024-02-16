@@ -12,4 +12,5 @@ number = [20, 50, 10, 25, 15, 60]
 print(f'The minimum value in the list is {min(number)}.')
 print(f'The maximum value in this list is {max(number)}.')
 
+print(f'The sum is {sum(numbers)}. ')
 
